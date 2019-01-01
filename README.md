@@ -1,7 +1,7 @@
 # WindowsVolumeControls
 AutoHotKey script that increases/decreases the volume of a Windows computer.
 
-**LICENSE**
+**LICENSE**<br/>
 See LICENSE.txt for details.
 
 ## Why I created this script ##
