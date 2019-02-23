@@ -13,7 +13,7 @@ I created this AutoHotkey script because I had a similar feature by default on m
 3. Right click on the VolumeControls.ahk file and choose the "Run Script" option to enable volume controls.
 If you want this script to run at startup, see below.
 
-## How To Run At Startup (Highly Recommended)##
+## How To Run At Startup (Highly Recommended) ##
 If you want this script to run at the startup of your computer, there are many ways, but the easiest way is described below.
 1. Right click on the VolumeControls.ahk file and click "Compile Script" to convert it to a .exe file.
 2. Drag and drop the VolumeControls.exe file to the startup folder on your Windows machine.
