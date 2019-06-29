@@ -2,7 +2,7 @@
 AutoHotKey script that increases/decreases the volume of a Windows computer.
 
 **Development State:**
-Finished, optimized.
+Finished, optimized, will most likely not receive future updates.
 
 ## Why I created this script ##
 I created this AutoHotkey script because I had a similar feature by default on my Acer laptop keyboard and it was very annoying not having quick access to volume controls on the keyboard itself. I didn't want to buy a new keyboard with dedicated volume controls since I wanted a compact keyboard, so I created this AHK script. Enjoy!
